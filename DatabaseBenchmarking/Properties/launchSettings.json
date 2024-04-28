@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DatabaseBenchmarking": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "R_HOME": "C:\\Program Files\\R\\R-4.3.1"
+      }
+    }
+  }
+}
